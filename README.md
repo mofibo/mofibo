@@ -14,7 +14,7 @@ Firas</a></h1>
 
 - 📫 How to reach me **bouzguenda.medfiras@gmail.com**
 
-<h3 align="center" > <img src="https://github.com/mofibo/mofibo/blob/main/images/graphs" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://github.com/mofibo/mofibo/blob/main/images/graphs.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
